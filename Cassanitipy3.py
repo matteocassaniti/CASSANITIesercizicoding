@@ -1,0 +1,1 @@
+fruits = ("appple", "mango", "parmigiana") 
