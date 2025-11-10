@@ -1,0 +1,11 @@
+favourite = {"colour":"blue","food":"pasta"}
+print(len(favourite))
+print(favourite["food"])
+print(favourite.get("team"))
+print(favourite.keys())
+print(favourite.values())
+print(favourite.items())
+favourite.update({"team": "Napoli"})
+print(favourite.get("team"))
+print(favourite.pop("team"))
+print(favourite.clear())
